@@ -1,0 +1,115 @@
+adapted from repository AZGL
+
+==================================================================================
+                    ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
+                            Version 1.0 (2026)
+==================================================================================
+
+PREAMBLE
+----------------------------------------------------------------------------------
+This Artzencraft Generalized License ("AZGLv1") is established to foster a shared,
+open environmental space for software and media. Materials licensed under the 
+AZGLv1 are expressly designated as Public Learning Material. This license grants 
+extensive freedoms to modify, decompile, and remix works, provided that the 
+licensee complies with strict accessibility requirements and trademark 
+limitations defined below.
+
+
+SECTION 1: DEFINITIONS
+----------------------------------------------------------------------------------
+As used in this License, the following terms have the specific meanings:
+
+* "Licensor" (referred to as "WE" or "US") means Artzencraft, the original 
+  creator and author of the Software/Media and this License.
+* "Licensee" (referred to as "YOU") means any individual, machine, or entity 
+  exercising rights under this License.
+* "Software" or "Media" means any software, code, artwork, compiler, or digital 
+  asset distributed under the terms of this License.
+* "Device" means any hardware unit, computer, or system capable of executing, 
+  displaying, or utilizing the Software or Media.
+* "Remix" means to modify, tamper with, recreate, re-source, decompile, decode, 
+  decrypt, or adapt the Software or Media into a derivative work.
+* "Contact" means the official channel for communication regarding this license, 
+  located via the GitHub link below:
+      https://github.com/Lucatragon/message/blob/main/contacts.txt
+
+
+SECTION 2: WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+----------------------------------------------------------------------------------
+2.1 DISCLOSURE OF VOLUNTARY USE. YOU, the Licensee, fully acknowledge and 
+understand that downloading, installing, updating, or using this Software is 
+entirely voluntary. The Software is not forced upon you. You assume complete 
+responsibility for its deployment and use on any Device whatsoever.
+
+2.2 DISCLAIMER OF WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF 
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+WORKING CONDITION, FUNCTIONALITY, EXPRESSIVITY, OR PERFORMANCE COMMON TO 
+STANDARDIZED PRODUCTS. 
+
+2.3 LIMITATION OF LIABILITY. IN NO EVENT SHALL THE LICENSOR OR AUTHORS BE HELD 
+LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE 
+SOFTWARE, MEDIA, OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+SECTION 3: PUBLIC LEARNING MATERIAL & USAGE RIGHTS
+----------------------------------------------------------------------------------
+3.1 Target Audience. This Software and Media may be utilized by anyone. It is 
+explicitly structured to be accessible to a diverse consumer base, including but 
+not limited to students, teachers, agents, professors, hobbyists, artificial 
+intelligence models, and machine interpreters.
+
+3.2 Grant of Rights. Licensees are permitted and encouraged to remix, tamper 
+with, recreate, re-source, decompile, decode, or decrypt the Software and Media. 
+
+3.3 Ownership of Remixed Works. If you create a Remix (including but not limited 
+to compilers or imaging software), the resulting work is legally considered 
+authored by YOU alone. This License does not attach to or force itself upon your 
+past, present, or future derivative works. You claim exclusive authorship over 
+your reworked version, and you are not required to include this License in your 
+redistributed Remix, although it is fully permitted to do so.
+
+
+SECTION 4: ACCESS RESTRICTIONS AND MANDATORY FREEDOMS
+----------------------------------------------------------------------------------
+4.1 Zero Restriction Policy. Any Software or Media distributed under the AZGLv1 
+must remain entirely free of access barriers. You shall not place the Media behind 
+paywalls, ad-walls, registration prompts, or any other limitations. 
+
+4.2 Platform Compliance. Hosting platforms that enforce anti-spam cooldowns, 
+mandatory delays, or download restrictions (such as SourceForge) fail the 
+good-faith requirements of this License and shall not host AZGLv1 materials. 
+
+4.3 Exceptions for Web Infrastructures. A narrow exception is granted for 
+platforms such as social media, web search engines, proprietary websites, or 
+integrated digital networks, where the material inherently cannot be accessed 
+outside of that specific network environment.
+
+
+SECTION 5: TRADEMARK, INTELLECTUAL PROPERTY, AND NAMING RULES
+----------------------------------------------------------------------------------
+If you modify the Software, Media, or this License, you must comply with the 
+following strict naming conventions to protect the Licensor's identity:
+
+5.1 License Naming. If you adapt, remix, or copy this License document for your 
+own works, you must rename the license so it shares no namesake with the AZGLv1. 
+You must remove "Artzencraft" and the letters "AZ" from the title and acronym, 
+replacing them with your own brand name or acronym, unless the license is to be
+kept and remain unchanged.
+
+5.2 Prohibited Project Names. Your modified or remixed project must not use or 
+imply connection to the Artzencraft intellectual property. Prohibited names 
+include, but are not limited to:
+  > Artzencraft
+  > AZC
+  > Arts and Craft
+
+5.3 Permitted Critique Names. You are explicitly permitted to reference the 
+original brand name if your project title is structured as a critique or review. 
+Permitted naming conventions include, but are not limited to:
+  > Artzencraft Destroyer
+  > Artzencraft Sucks
+
+==================================================================================
+                             [END OF LICENSE TERMS]
+==================================================================================
